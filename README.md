@@ -20,7 +20,7 @@ I am a dedicated Full Stack Developer with a strong foundation in both frontend 
 C#, JavaScript (ES6), TypeScript, SQL
 
 **Frameworks & Tools:**  
-ASP.NET Core MVC, ASP.NET Web API, Windows Forms, Angular, SignalR, LINQ, Entity Framework Core, ADO.NET, RDLC Reports, Stimulsoft Reports
+ASP.NET Core MVC, ASP.NET Web API, Windows Forms, Angular, SignalR, GRPC, LINQ, Entity Framework Core, ADO.NET, RDLC Reports, Stimulsoft Reports
 
 **Frontend:**  
 HTML5, CSS3, Bootstrap, jQuery
